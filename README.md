@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 Rails2-8はバリデーションの設定
+Rails2-9削除機能を作ろう
