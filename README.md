@@ -25,3 +25,5 @@ Things you may want to cover:
 Rails2-8はバリデーションの設定
 Rails2-9削除機能を作ろう
 Rails10章　【MVCを振り返ろう】
+Rails 11章【レイアウトを整えよう
+Rails １１章[レイアウトを整えよう]
